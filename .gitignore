@@ -1,0 +1,13 @@
+# Go
+server/vendor/
+*.exe
+*.out
+
+# Python
+client/venv/
+__pycache__/
+*.pyc
+.env
+
+# VS Code
+.vscode/
